@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Patricio Espinoza A.",
+    "label": "Computer Science Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "patricio.espinoza.a@ug.uchile.cl",
+    "phone": "-",
+    "url": "https://patricioespinozaa.github.io/",
+    "summary": "I'm passionate about exploring innovative solutions in technology and eager to tackle challenges that will enhance my skills in IA, Data Science, and Software Development. I currently serve as a Data Scientist Assistant at the ETHICS unit of the FCFM, University of Chile. In this role, I conduct advanced data analysis using natural language processing (NLP) techniques and models on data collected from EthicApp.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "patricio-ea",
+        "url": "https://www.linkedin.com/in/patricio-ea/"
       }
     ]
   },
@@ -35,14 +35,13 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "IEEE Computer Society",
+      "location": "Santiago, Chile",
+      "position": "Volunteer Staff",
+      "url": "https://edu.ieee.org/cl-uchile/computer-society/",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "summary": ""
     }
   ],
   "education": [
@@ -151,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
