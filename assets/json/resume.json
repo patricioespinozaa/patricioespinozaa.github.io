@@ -30,7 +30,34 @@
       "startDate": "2025-04-01",
       "endDate": "Present",
       "summary": "RL 1: Aprendizaje profundo para la Visión y el Lenguaje.\nEstudio sobre la clasificación de respuestas de estudiantes universitarios en temas éticos.",
-      "highlights": ["NLP"]
+      "highlights": [""]
+    },
+    {
+      "name": "Centro Nacional de Inteligencia Artificial (CENIA)",
+      "position": "Ingeniero de Software (Intern)",
+      "url": "https://example.com",
+      "startDate": "2024-12-21",
+      "endDate": "2025-03-14",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Trabajé en el desarrollo de un ChatBot RAG con capacidad de procesar Excel, Audios e imágenes.", "Desarrollé APIs en backend mediante FastAPI.", "Modelé y construí una base de datos relacional mediante SQLAlchemy.", "Generación de reportes de consumo para la aplicación.", "Implementé gestión de permisos con Casbin para roles administrativos."]
+    },
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     },
     {
       "name": "Institute for Advanced Study, Princeton University",
