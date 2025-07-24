@@ -122,15 +122,6 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "publications": [
-    {
-      "name": "-",
-      "publisher": "-",
-      "releaseDate": "-",
-      "url": "-",
-      "summary": "-"
-    }
-  ],
   "skills": [
     {
       "name": "Computer Science",
@@ -171,13 +162,6 @@
       "keywords": [
         "CV"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "-",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "-"
     }
   ],
   "projects": [
