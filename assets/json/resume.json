@@ -6,13 +6,13 @@
     "email": "patricio.espinoza.a@ug.uchile.cl",
     "phone": "-",
     "url": "https://patricioespinozaa.github.io/",
-    "summary": "I'm passionate about exploring innovative solutions in technology and eager to tackle challenges that will enhance my skills in IA, Data Science, and Software Development. I currently serve as a Data Scientist Assistant at the ETHICS unit of the FCFM, University of Chile. In this role, I conduct advanced data analysis using natural language processing (NLP) techniques and models on data collected from EthicApp.",
+    "summary": "I'm passionate about exploring innovative solutions in technology and eager to tackle challenges that will enhance my skills in IA, Data Science, and Software Development.\nI currently serve as a Data Scientist Assistant at the ETHICS unit of the FCFM, University of Chile. In this role, I conduct advanced data analysis using natural language processing (NLP) techniques and models on data collected from EthicApp.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "-",
+      "postalCode": "-",
+      "city": "Santiago",
+      "countryCode": "CL",
+      "region": "Metropolitana"
     },
     "profiles": [
       {
@@ -23,6 +23,15 @@
     ]
   },
   "work": [
+    {
+      "name": "Centro Nacional de Inteligencia Artificial (CENIA)",
+      "position": "Estudiante de Investigación",
+      "url": "https://example.com",
+      "startDate": "2025-04-01",
+      "endDate": "Present",
+      "summary": "RL 1: Aprendizaje profundo para la Visión y el Lenguaje.\nEstudio sobre la clasificación de respuestas de estudiantes universitarios en temas éticos.",
+      "highlights": ["NLP"]
+    },
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
